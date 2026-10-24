@@ -5,6 +5,8 @@ for i in range(5):
     n=n//10
 nut=tong%10
 if nut==9:
-    print(nut,'\n','may man')
+    print(nut)
+    print('may man')
 else:
-    print(nut,'\n','chua may man',)    
+    print(nut)
+    print('chua may man')
